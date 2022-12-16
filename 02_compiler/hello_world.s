@@ -4,7 +4,7 @@
 	.comm	_ZStL8__ioinit,1,1
 	.section	.rodata
 .LC0:
-	.string	"hello world,baby"
+	.string	"hello world"
 	.text
 	.globl	main
 	.type	main, @function
