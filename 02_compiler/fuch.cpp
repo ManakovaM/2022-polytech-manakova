@@ -2,5 +2,5 @@
 
 void print()
 { 
-  std::cout << "hello world,baby" << std::endl;  
+  std::cout << "hello world" << std::endl;  
 }
