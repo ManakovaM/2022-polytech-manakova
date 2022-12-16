@@ -1,7 +1,7 @@
-#include "func.h"
+#include "fuch.cpp"
 
-int main() {
+int main() 
+{
   print();
-
   return 0;
 }
